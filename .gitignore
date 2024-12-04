@@ -1,8 +1,8 @@
 # Ignorar PHPUnit en practica y Proyecto
 practica/phpunit*
-practica/tests/
+
 practica/vendor/
 
 Proyecto/phpunit*
-Proyecto/tests/
+
 Proyecto/vendor/
