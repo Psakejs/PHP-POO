@@ -1,0 +1,3 @@
+Una interfaz se desarrolla y se implementa en unz clase y al implementarla estamos obligados a desarrollar todos los metodos que la interfaz define
+
+Una interface es como un contrato en donde aquella clase que la implemente esta obligada a desarrollar toos los metodos que haya alli

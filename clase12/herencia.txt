@@ -1,0 +1,3 @@
+Dice que tenemos una clase padre y de repente un ahija y si la padre tiene 5 metodos la hija los hereda y ademas les permite tener sus propios metodos
+
+Al agregar la palabra final delante d eun metodo lo hacemos irrescribible, no puede ser modificado por sus hijos, y si lo agregamos a la clase esa clase no podra ser heredada o usada por otras

@@ -1,0 +1,8 @@
+La inclusion de archivos es un paso previo a la POO, es un concepto que parece exageradamente completo, 
+sin embargo vamos a ver que queremos decir con crear objetos, clases y demás.
+
+Include, nos permite incluir un archivo dentro de otro.
+Require, noes permite incluir un archivo dentro de otro pero esta es mucho más exigente, si el archivo no existe el sistema se detendra y lo exigira.
+Require once, es similar al anterior pero si por equivocación incluimos varios archivos, esta permitira evaluar eso y evitar asi un error.
+
+La inclusion de archivos nos permite entender un poco mejor como aislar diferentes bloques y estructuras de codigo, no es POO pero nos ayuda a entender como utilizar codigo creado una vez en varias partes del sistema, nos ayuda a tener una pequeña base para lo que veremos en temas más avanzados.

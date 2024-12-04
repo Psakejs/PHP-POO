@@ -1,0 +1,10 @@
+Code smell 
+
+hace refrencia al mal olor del codigo, este concecpto no se refiere a errorres tecnicos, sino a errores de orden y diseño. Esto sucede mucho cuando intentamos crear soluciones a partir de otras soluciones. Por ejemplo cuando copiamos y pegamos, por ejemplo hacemos una estructura en una pagina y funciona y luego lo pegamos en eotra y simplemente lo editamos, el codigo puede funcionar, sin embargo tambien va a apestar por el pesimo orden que hay.
+
+La mayoria de las veces la solución es crear una abtracción, un modulo que se pueda conectar con otros modulos.
+
+Como evitarlo:
+
+Debemos hacer una programación mucho más limpia, evitando grandes metodos, crear grandes clases o super clases, debemos evitar copiar un codigo que funciona y llevarlo a otro archivo, el sistema funcionará pero a futuro será horrible de mantener o hasta imposible.
+

@@ -1,0 +1,18 @@
+La abstracción define la estructura y oculta la implementación.
+El polimorfismo permite que las clases hijas implementen comportamientos diferentes basados en la misma interfaz o clase base.
+
+
+El polimorfismo es otro principio fundamental de la POO, que significa literalmente "muchas formas". En programación, se refiere a la capacidad de un objeto de adoptar diferentes comportamientos dependiendo del contexto.
+
+En pocas palabras:
+
+Un mismo método o acción puede comportarse de maneras distintas dependiendo del objeto que lo implemente.
+Este concepto está estrechamente relacionado con la herencia y/o el uso de interfaces o clases abstractas.
+
+
+Es esa caracteriztica de programación orientada a objetos que se presenta usualmente de manera muy compleja
+un mismo elemento si se comporta de diferentes maneras y otorga diferentes resultados es un polimorfismo.
+Es la capacidad de una clase hija de redefinir un método de la clase padre para darle un comportamiento distinto, pero el método tiene el mismo nombre.
+
+Abstracción: Es como una plantilla donde defines qué métodos deben existir, pero no cómo se implementan.
+Polimorfismo: Es cuando clases heredadas tienen el mismo método, pero su implementación puede ser diferente según la clase.

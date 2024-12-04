@@ -1,0 +1,11 @@
+La deuda tecnica es algo que en cualquier momento debemos pagar, y es por el re-trabajo, y es porque tenemos la intención de programar unicamente con el fin de que algo funcione, pero como cualquier deuda puede generar en el futuro interes y se volvera impagable, el que este mal programado hara que estalle en algun momento, tenemos que programar bien, completo, con lo necesario hoy, nada para despues, cuando hacemos cualquier mejora en el sistema pensando que funciona.
+
+
+Consejos
+
+Como evitar una deuda tecnica
+
+1. Tenemos que programar con pruebas
+2. Documentar a tiempo
+3. Refactorizar (mejorar) de inmediato nuestro codigo
+

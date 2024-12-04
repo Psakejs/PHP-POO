@@ -1,0 +1,2 @@
+Es algo que debemos cumplir al pie de laletra el futuro de todo sistema  es el mantenimiento, debemos en modulos no en una sola pagina con toda la programación, aplica a vistas, a modulos, a helpers, hace refrencia tener cada pieza de codigo separada que unidas forman todo el sistema, tener largas lineas de codigo hace todo más complicado ya que tendremos que hacer mantenimiento a un codigo muy sucio. no crees todo en un unico archivo.
+

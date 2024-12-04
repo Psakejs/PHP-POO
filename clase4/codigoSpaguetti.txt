@@ -1,0 +1,16 @@
+El codigo espagueti
+
+COmo en un plato de espaguetis todo esta alli en un plato, siempre corremos riesgo de realizar codigo espagueti, pero la programción orientada a obejtos nos ayuda a evitarlo.
+
+Un codigo espagueti basicamente es: 
+
+Un codigo que esta estruturado mediante if, while, for, todo en un mismo archivo php, y resuelve el problema pero solo pensamos en resolver el problema, no debemos crear codigo estructurado y nunca mejorarlo, lo correcto es resolver un problema y refactorizar teniendo un mejor codigo pero sin cambiar el resultado final, refactorizar es un escalon hacia el mundo profesional, un codigo que simplemente funcione puede estar lleno de grandes estructuras condicionales.
+
+La POO nos ayudara a organizar mejor todo, y nos ayudara a mantener nuestro producto a futuro, a veces creemos que el dinero en la programacion esta en la creacion de sistemas, pero en esta profesion el dinero esta en el mantenimiento.
+
+
+Como evitar el codigo espagueti:
+
+1. Resuelve el problema
+2. Crea de manera logica  y coherente diferentes metodos que reemplazen nuestras estructuras de control.
+3. Crea una o varias clases dependiendo el caso, es mejor dar amntenimiento a un archivo de 6 lineas qu euno de 120.

@@ -1,0 +1,15 @@
+Los elementos publicos pueden ser accedidos a lo largo de todo el sistema
+
+Los elementos protegidos, solo pueden acceder a mis elementos de clase aquellas clases que hereden de mi
+
+SI es privado nadie puede hacer uso de ese sistema ni siquiera las clases que hereden de mi.
+
+Modificador private
+Qué es: Las propiedades o métodos declarados como private solo pueden ser accedidos dentro de la misma clase en la que se definieron.
+Uso: Se utiliza para proteger datos que no deberían ser accesibles ni modificados desde fuera de la clase.
+
+
+ Modificador protected
+Qué es: Las propiedades o métodos declarados como protected pueden ser accedidos dentro de la misma clase o por clases hijas (clases que extienden de la clase base).
+Uso: Es útil cuando quieres permitir que las clases hijas tengan acceso a ciertos datos o métodos, pero sin que estén disponibles directamente para instancias externas.
+Ejemplo práctic
